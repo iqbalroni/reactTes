@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reactTes/static/css/main.e88c0377.css",
+    "main.js": "/reactTes/static/js/main.1587115b.js",
+    "index.html": "/reactTes/index.html",
+    "main.e88c0377.css.map": "/reactTes/static/css/main.e88c0377.css.map",
+    "main.1587115b.js.map": "/reactTes/static/js/main.1587115b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e88c0377.css",
+    "static/js/main.1587115b.js"
+  ]
+}
